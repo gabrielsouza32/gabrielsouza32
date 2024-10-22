@@ -1,1 +1,2 @@
 0368. 🚀 perf: lazy-load components
+0498. ✅ test: mock database connection in test suite

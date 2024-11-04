@@ -12,3 +12,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0716. ✨ feat: implement quiz timer feature
 0301. 🎨 style: apply consistent indentation
+0451. ✨ feat: support email verification

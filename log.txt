@@ -15,3 +15,4 @@
 0451. ✨ feat: support email verification
 0186. ✅ test: test user registration edge cases
 0881. 🔧 refactor: split large controller into smaller functions
+0779. 🔧 refactor: organize models into subfolders

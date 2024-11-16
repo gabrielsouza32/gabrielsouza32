@@ -22,3 +22,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0426. ✅ test: add integration test for /submit endpoint
 0094. 📚 docs: document token refresh logic
+0408. ♻️ chore: add GitHub actions badge

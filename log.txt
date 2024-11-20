@@ -24,3 +24,4 @@
 0094. 📚 docs: document token refresh logic
 0408. ♻️ chore: add GitHub actions badge
 0605. ✨ feat: support email verification
+0572. ✨ feat: add user authentication

@@ -53,3 +53,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0728. 🔧 refactor: split large controller into smaller functions
 0819. 🚀 perf: reduce image load time
+0511. 🐛 fix: fix broken CSS in mobile view

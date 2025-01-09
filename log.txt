@@ -63,3 +63,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0971. 🎨 style: standardize quote style
 0521. 🎨 style: standardize quote style
+0535. 📚 docs: write FAQ section

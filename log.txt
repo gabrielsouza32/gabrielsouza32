@@ -65,3 +65,4 @@
 0521. 🎨 style: standardize quote style
 0535. 📚 docs: write FAQ section
 0356. 📚 docs: write FAQ section
+0848. 📚 docs: update README with setup steps

@@ -68,3 +68,4 @@
 0848. 📚 docs: update README with setup steps
 0838. 🎨 style: standardize quote style
 0715. ✨ feat: create admin dashboard
+0078. ♻️ chore: update .gitignore

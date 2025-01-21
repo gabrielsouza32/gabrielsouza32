@@ -69,3 +69,4 @@
 0838. 🎨 style: standardize quote style
 0715. ✨ feat: create admin dashboard
 0078. ♻️ chore: update .gitignore
+0307. ✨ feat: support email verification

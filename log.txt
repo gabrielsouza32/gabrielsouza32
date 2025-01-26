@@ -73,3 +73,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0107. 🐛 fix: prevent crash on empty input
 0227. ✅ test: test user registration edge cases
+0279. ✨ feat: support email verification

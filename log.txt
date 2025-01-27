@@ -75,3 +75,4 @@
 0227. ✅ test: test user registration edge cases
 0279. ✨ feat: support email verification
 0659. 📚 docs: add API usage examples
+0685. ✅ test: test user registration edge cases

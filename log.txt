@@ -84,3 +84,4 @@
 0702. ✨ feat: add user authentication
 0061. ✨ feat: create admin dashboard
 0304. 🔧 refactor: remove redundant code blocks
+0246. ✅ test: add integration test for /submit endpoint

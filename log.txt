@@ -88,3 +88,4 @@
 0455. ♻️ chore: clean up unused files
 0681. ✨ feat: create admin dashboard
 0633. ✨ feat: add user authentication
+0257. 📚 docs: clarify environment setup

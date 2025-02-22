@@ -93,3 +93,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0950. 🎨 style: reformat files with black
 0741. 🎨 style: apply consistent indentation
+0557. 🔧 refactor: clean up auth middleware

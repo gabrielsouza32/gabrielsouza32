@@ -97,3 +97,4 @@
 0773. 📚 docs: document token refresh logic
 0323. 📚 docs: clarify environment setup
 0942. ✅ test: increase coverage on auth module
+0723. 🔧 refactor: remove redundant code blocks

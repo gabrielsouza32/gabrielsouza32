@@ -99,3 +99,4 @@
 0942. ✅ test: increase coverage on auth module
 0723. 🔧 refactor: remove redundant code blocks
 0768. 🎨 style: remove trailing whitespace
+0689. 🎨 style: reformat files with black

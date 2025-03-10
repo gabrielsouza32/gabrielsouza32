@@ -107,3 +107,4 @@
 0263. 📚 docs: add API usage examples
 0289. 🐛 fix: resolve issue with date parsing
 0718. 🐛 fix: resolve issue with date parsing
+0127. 🐛 fix: fix null pointer exception on login

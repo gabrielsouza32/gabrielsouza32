@@ -111,3 +111,4 @@
 0490. ✨ feat: create admin dashboard
 0474. ✅ test: add unit test for quiz service
 0526. ✨ feat: add user authentication
+0873. 🚀 perf: cache repeated calculations

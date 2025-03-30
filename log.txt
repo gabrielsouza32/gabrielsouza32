@@ -115,3 +115,4 @@
 0100. ♻️ chore: update .gitignore
 0699. 🎨 style: standardize quote style
 0520. 🐛 fix: fix null pointer exception on login
+0012. 🚀 perf: cache repeated calculations

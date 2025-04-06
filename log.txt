@@ -120,3 +120,4 @@
 0300. ✨ feat: add export to CSV option
 0764. ✨ feat: add user authentication
 0277. 🎨 style: standardize quote style
+0084. 🐛 fix: handle 500 error in quiz API

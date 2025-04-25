@@ -134,3 +134,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0295. 🎨 style: remove trailing whitespace
 0178. ✨ feat: support email verification
+0506. 🐛 fix: handle 500 error in quiz API

@@ -135,3 +135,4 @@
 0295. 🎨 style: remove trailing whitespace
 0178. ✨ feat: support email verification
 0506. 🐛 fix: handle 500 error in quiz API
+0564. 📚 docs: clarify environment setup

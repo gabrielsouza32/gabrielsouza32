@@ -137,3 +137,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0564. 📚 docs: clarify environment setup
 0369. 🎨 style: standardize quote style
+0204. 🎨 style: standardize quote style

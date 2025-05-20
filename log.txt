@@ -153,3 +153,4 @@
 0624. ✅ test: add unit test for quiz service
 0607. 🐛 fix: prevent crash on empty input
 0235. 🐛 fix: fix null pointer exception on login
+0968. 🎨 style: standardize quote style

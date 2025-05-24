@@ -155,3 +155,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0968. 🎨 style: standardize quote style
 0833. ✨ feat: add user authentication
+0105. 🐛 fix: correct typo in registration form

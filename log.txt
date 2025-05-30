@@ -158,3 +158,4 @@
 0105. 🐛 fix: correct typo in registration form
 0048. 📚 docs: update README with setup steps
 0319. 🐛 fix: handle 500 error in quiz API
+0444. ✅ test: add unit test for quiz service

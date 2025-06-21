@@ -171,3 +171,4 @@
 0157. ✅ test: mock database connection in test suite
 0904. ✨ feat: implement quiz timer feature
 0631. ✨ feat: create admin dashboard
+0524. ♻️ chore: rename env.example

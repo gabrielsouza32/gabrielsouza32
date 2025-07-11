@@ -179,3 +179,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0865. ♻️ chore: add GitHub actions badge
 0589. 🐛 fix: fix broken CSS in mobile view
+0298. ♻️ chore: update .gitignore

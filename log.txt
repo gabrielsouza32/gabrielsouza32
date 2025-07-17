@@ -181,3 +181,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0298. ♻️ chore: update .gitignore
 0339. 📚 docs: update README with setup steps
+0250. 📚 docs: update README with setup steps

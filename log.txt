@@ -183,3 +183,4 @@
 0339. 📚 docs: update README with setup steps
 0250. 📚 docs: update README with setup steps
 0160. ♻️ chore: bump dependencies
+0473. 📚 docs: write FAQ section

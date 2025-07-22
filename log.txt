@@ -185,3 +185,4 @@
 0160. ♻️ chore: bump dependencies
 0473. 📚 docs: write FAQ section
 0958. 🐛 fix: prevent crash on empty input
+0442. 🎨 style: standardize quote style

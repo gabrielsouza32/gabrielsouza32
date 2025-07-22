@@ -184,3 +184,4 @@
 0250. 📚 docs: update README with setup steps
 0160. ♻️ chore: bump dependencies
 0473. 📚 docs: write FAQ section
+0958. 🐛 fix: prevent crash on empty input

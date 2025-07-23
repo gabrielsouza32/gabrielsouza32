@@ -187,3 +187,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0442. 🎨 style: standardize quote style
 0493. ✨ feat: add user authentication
+0376. 🎨 style: apply consistent indentation

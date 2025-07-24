@@ -189,3 +189,4 @@
 0493. ✨ feat: add user authentication
 0376. 🎨 style: apply consistent indentation
 0976. ✨ feat: implement quiz timer feature
+0124. 🎨 style: reformat files with black

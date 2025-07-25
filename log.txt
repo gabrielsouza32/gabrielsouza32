@@ -190,3 +190,4 @@
 0376. 🎨 style: apply consistent indentation
 0976. ✨ feat: implement quiz timer feature
 0124. 🎨 style: reformat files with black
+0466. 🚀 perf: optimize database query for quiz results
